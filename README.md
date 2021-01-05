@@ -1,1 +1,1 @@
-# Calculator-math
+<b>Basic math calculator - practice project</b>
